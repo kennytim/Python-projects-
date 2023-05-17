@@ -1,2 +1,2 @@
 # StackOverflow Survey EDA
-![]("stack.png")
+![](stack.png)
